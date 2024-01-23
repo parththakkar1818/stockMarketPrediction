@@ -11,7 +11,7 @@ const app = express();
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(cors());
+// app.use(cors());
 app.use(cors({
   origin: 'https://stock-market-prediction-theta.vercel.app',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
