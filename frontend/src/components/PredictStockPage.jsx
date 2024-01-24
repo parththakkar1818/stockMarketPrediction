@@ -29,7 +29,7 @@ const PredictStockPage = () => {
   const predictStockPrice = async (startDate , endDate , stockSymbol) => {
     try {
       setLoading(true);
-      const predictionResponse = await fetch(`https://stock-market-prediction-backend-jzf1ndlvc.vercel.app/predictstock/${startDate}/${endDate}/${stockSymbol}`,{
+      const predictionResponse = await fetch(`https://stock-market-prediction-backend.vercel.app/predictstock/${startDate}/${endDate}/${stockSymbol}`,{
         method: "POST",
           headers: {
             "Content-Type": "application/json",
