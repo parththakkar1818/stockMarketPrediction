@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pandas as pd
 import yfinance as yf
 import matplotlib.pyplot as plt
@@ -11,6 +12,7 @@ from tensorflow.keras.layers import Dense, LSTM
 import math
 from sklearn.metrics import mean_squared_error
 import json
+
 
 # combined_args = sys.argv[1:]
 # start, end, stock_symbol = combined_args
