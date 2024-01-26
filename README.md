@@ -13,16 +13,22 @@ This project combines stock market data retrieval, visualization, and machine le
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./screenshots/home_screen.png)
+![Home Screen](https://github.com/parththakkar1818/stockMarketPrediction/assets/121672669/b8d4d6f3-cb97-46c4-8fc9-73dc836659af)
+
 
 ### Stock Data Visualization
-![Stock Data Visualization](./screenshots/stock_visualization.png)
+![Stock Data Visualization](https://github.com/parththakkar1818/stockMarketPrediction/assets/121672669/53647313-307b-446d-aa9d-db5e79639ec2)
+![Stock Data Visualization](https://github.com/parththakkar1818/stockMarketPrediction/assets/121672669/f3a57493-a0df-4829-9b1c-7c033ec52d49)
+
+
 
 ### LSTM Prediction
-![LSTM Prediction](./screenshots/lstm_prediction.png)
+![LSTM Prediction](https://github.com/parththakkar1818/stockMarketPrediction/assets/121672669/b102cd54-f517-4c02-a6b0-e0ec1d52a540)
+
+
 
 ### Downloadable Data
-![Downloadable Data](./screenshots/download_data.png)
+![Downloadable Data](https://github.com/parththakkar1818/stockMarketPrediction/assets/121672669/74436d45-81b4-4f29-a656-3c21c6b9dc3f)
 
 ## Prerequisites
 - Node.js and npm installed
