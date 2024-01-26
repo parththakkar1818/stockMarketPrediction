@@ -28,7 +28,7 @@ This project combines stock market data retrieval, visualization, and machine le
 - Node.js and npm installed
 
 ## Getting Started
-1. Clone the repository:
+1. Download code from:
     ```bash
     git clone https://github.com/parththakkar1818/stockMarketPrediction.git
     ```
