@@ -92,7 +92,7 @@ app.post("/predictstock/:startdate/:enddate/:stocksymbol", async (req, res) => {
   try {
     const combinedArgs = [startDate, endDate, stockSymbol].join(",");
     console.log("I am from backend",combinedArgs);
-    const pythonProcess = spawn("python3", ["get_stockdata.py", combinedArgs]);
+    const pythonProcess = spawn("python", ["get_stockdata.py", combinedArgs]);
 
     let pythonOutput = "";
 
