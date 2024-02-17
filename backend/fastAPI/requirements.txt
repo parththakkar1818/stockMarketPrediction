@@ -1,0 +1,3 @@
+fastapi == 0.95.2
+fastapi-socketio==0.0.10
+uvicorn==0.20.0
